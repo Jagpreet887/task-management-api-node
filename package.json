@@ -1,0 +1,22 @@
+{
+  "name": "task-management-api-node",
+  "version": "1.0.0",
+  "description": "task management",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jagpreet887/task-management-api-node.git"
+  },
+  "author": "jagpreet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jagpreet887/task-management-api-node/issues"
+  },
+  "homepage": "https://github.com/Jagpreet887/task-management-api-node#readme",
+  "dependencies": {
+    "sequelize": "^6.37.5"
+  }
+}
