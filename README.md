@@ -21,13 +21,15 @@ This API allows users to **create, update, delete, and retrieve tasks** with dyn
 git clone https://github.com/Jagpreet887/task-management-api-node.git
 cd task-management-api
 
+### **2️⃣ Clone the Repository**
 npm install
-
+## **3️⃣ Set Up Environment Variables**
+```env
 DB_HOST=localhost
 DB_USER=youruser
 DB_PASSWORD=yourpassword
 DB_NAME=tasks_db
 DB_PORT=5432
 PORT=5000
-
+## **4️⃣ Setup PostgreSQL Database**
 npm run server
